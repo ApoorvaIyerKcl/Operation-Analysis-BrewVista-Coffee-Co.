@@ -22,8 +22,8 @@ As a result, **planning decisions** related to **inventory**, **staffing**, and 
 
 **Methodology**
 
-1. Cleaned and standardised the original combined coffee shop sales dataset of 1,40,000+ rows and 28 columns to ensure consistency across products, sizes, dates, and locations.
-2. Built 10 pivot tables to aggregate sales revenue, order volume, and customer demand across products, time periods, store locations, sales channels, and product sizes.
+1. Cleaned and standardised the original combined coffee shop sales dataset of **1,40,000+ rows** and **28 columns** to ensure consistency across products, sizes, dates, and locations.
+2. Built **10 pivot tables to aggregate sales revenue, order volume, and customer demand across products, time periods, store locations, sales channels,** and **product sizes**.
 3. Designed an interactive Excel dashboard using pivot charts and slicers to enable self-serve analysis for sales and marketing stakeholders.
  
 **Skills**
